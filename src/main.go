@@ -134,7 +134,7 @@ func clearScreen() {
 func main() {
 	threadCount, charCount := 0, 0
     
-  clearScreen()
+        clearScreen()
     
 	fmt.Print("(\033[95m?\033[0m) Threads -> ")
 	fmt.Scanln(&threadCount)
