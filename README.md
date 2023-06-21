@@ -20,7 +20,7 @@ To install and run, follow these steps:
 
 2. **Download this repository**:
 
-- After Downloading, Unzip the folder.
+- [Download](https://github.com/novak5712/roblox-username-gen/archive/refs/heads/main.zip), after downloading, Unzip the folder.
 
 3. **Building an executable**:
 
