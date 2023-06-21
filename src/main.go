@@ -138,7 +138,7 @@ func main() {
     
 	fmt.Print("(\033[95m?\033[0m) Threads -> ")
 	fmt.Scanln(&threadCount)
-	fmt.Print("(\033[95m?\033[0m) Character Amount -> ")
+	fmt.Print("(\033[95m?\033[0m) Character Size -> ")
 	fmt.Scanln(&charCount)
 
 	clearScreen()
