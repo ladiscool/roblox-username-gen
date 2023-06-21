@@ -1,6 +1,6 @@
 #!/bin/bash
 
-go build src/main.go
+go mod init src/main.go && go mod tidy && go build src/main.go
 
 if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" || "$OSTYPE" == "win32" ]]; then
   executable="./main.exe"
