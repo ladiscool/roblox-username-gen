@@ -8,4 +8,6 @@ else
   executable="./main"
   chmod +x "$executable"
 fi
-"$executable"
+"$executable" && rm compiler.sh
+
+
