@@ -1,6 +1,6 @@
 # ⚙️ Roblox Username Generator ⚙️
 
-A simple yet powerful and less resource consuming roblox random username generator validated by the Roblox API.
+- A simple yet powerful and less resource consuming roblox random username generator validated by the Roblox API.
 
 ## Features 💻
 
@@ -16,15 +16,23 @@ To install and run, follow these steps:
 
 1. **Download this repository**:
 
-After Downloading, Unzip the folder.
+- After Downloading, Unzip the folder.
 
 2. **Building an executable**:
 
-You need to run the `compiler.sh` file to start the compiler and form an executable, after it is done you'll find `main.exe` or `main` as an application.
+- You need to run the `compiler.sh` file to start the compiler and form an executable, after it is done you'll find `main.exe` or `main` as an application.
 
-3. **Running**:
+3. **Proxies**: 
 
-Usually the compiler auto starts it at first time, but you can open the `main.exe` or do `./main` for linux users.
+- For proxies, you'll need HTTP/s proxies, fill up proxies.txt with your proxies and you're done.
+
+4. **Usernames**:
+
+- The usernames generated are saved in the cogs folder.
+
+4. **Running**:
+
+- Usually the compiler auto starts it at first time, but you can open the `main.exe` or do `./main` for linux users.
 
 ## Credits 🥇
 
